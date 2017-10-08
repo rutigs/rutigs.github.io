@@ -18,7 +18,7 @@ url: https://rutigs.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: UA-59196729-1
 
 linkedin: nick-rutigliano
 github: rutigs
