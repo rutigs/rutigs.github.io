@@ -9,7 +9,6 @@ image:
 headerImage: false
 projects: true
 star: false
-hidden: true # don't count this post in blog pagination
 description: "Best of my work during english 301"
 category: project
 author: nickrutigliano

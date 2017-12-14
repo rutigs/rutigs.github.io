@@ -9,7 +9,6 @@ image:
 headerImage: false
 projects: true
 star: false
-hidden: true # don't count this post in blog pagination
 description: "Application Package for a Software Engineering position at Google"
 category: project
 author: nickrutigliano
