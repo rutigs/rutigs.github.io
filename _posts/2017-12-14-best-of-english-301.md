@@ -23,11 +23,11 @@ When tasked to make a complaint letter professionally one company immediately ca
 
 > While I understand interruptions occur, many of us rely on the postal service for things everyday as many things simply must be purchased online and delivered to our homes.
 
-You can see the whole letter [here.](https://engl301.arts.ubc.ca/2017/11/17/31-complaint-letter-nick-rutigliano/)
+You can see the entire letter [here.](https://engl301.arts.ubc.ca/2017/11/17/31-complaint-letter-nick-rutigliano/)
 
 ## 2. Peer Review of Definitions
 
-For peer reviewing another student's definition I was tasked with Jovana Vranic's definition of [anomie](https://engl301.arts.ubc.ca/2017/11/17/31-complaint-letter-nick-rutigliano/). Given my background is not in sociology and I had never heard the term before this was a true test of her definition. I think my review was fair and just at highlight the strengths and weaknesses of her work.
+For peer reviewing another student's definition I was tasked with Jovana Vranic's definition of [anomie](https://engl301.arts.ubc.ca/2017/11/17/31-complaint-letter-nick-rutigliano/). Given my background is not in sociology and I had never heard the term before this was a true test of her definition. I think my review was fair and just at highlighting the strengths and weaknesses of her work.
 
 > One thing to adjust might be a more specific parenthetical definition. It is clear in establishing it as a condition and what causes it in young adults but less clear in how it actually affects them. The wording used can be construed in different ways and may put some ambiguity in the readers mind.
 
@@ -35,7 +35,7 @@ You can see my full review [here.](https://engl301.arts.ubc.ca/2017/09/27/13-pee
 
 ## 3. Definition Assignment
 
-The definition assignment was a fun one as I took a very technical and difficult term _cryptocurrency_ and attempted to distill to be understood by someone without a technical background or a degree in computer science.
+The definition assignment was a fun one as I took a very technical and difficult term _cryptocurrency_ and attempted to distill it into something that could be understood by someone without a technical background or a degree in computer science.
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Public_key_encryption.svg/525px-Public_key_encryption.svg.png)
 
@@ -45,7 +45,7 @@ The full definition can be found [here.](https://engl301.arts.ubc.ca/2017/09/22/
 
 ## 4. Formal Report
 
-The formal report was truly a daunting task, one I thought would be insurmountable upon hearing its initial 15 page requirement length. However, following the course's broken down chunks of work the report came today fairly easily and remains some of my proudest work. I tackled a sincere problem, conducted some quality research, and provided a company with actionable insight to help them.
+The formal report was truly a daunting task, one I thought would be insurmountable upon hearing its 15 page requirement length. However, following the course's broken down chunks of work the report came today fairly easily and remains some of my proudest work. I tackled a sincere problem, conducted some quality research, and provided a company with feasible insight to help them.
 
 ![]({{ site.url }}/assets/abstract.png)
 
