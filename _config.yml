@@ -1,6 +1,6 @@
 # main text of home
 name: Nick Rutigliano
-bio: software engineer, music nerd, cryptocurrency fan
+bio: prospective software engineer, music nerd, cryptocurrency fan
 
 # if it's an external image, update below for true
 # better with square images
@@ -9,8 +9,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: assets/resume.pdf 
+resume: true
 resume-external: local
+resume-src: assets/resume.pdf
 
 url: https://rutigs.github.io
 
