@@ -1,7 +1,7 @@
 ---
 title: "What's a Cryptocurrency?"
 layout: post
-date: 2016-10-04
+date: 2017-10-04
 headerImage: false
 tag:
 - distributed-systems
