@@ -14,3 +14,5 @@ I'm also very interested in cryptocurrencies and blockchain technologies, especi
 	data-key="DkobPsY3WdmMYatXBEOvhA3Rm5BKm1TP">
 	<em>Please disable Adblock!</em>
 </div>
+
+You can check out my resume [here.]({{ site.url }}/{{ site.resume }})
