@@ -1,6 +1,6 @@
 # main text of home
 name: Nick Rutigliano
-bio: prospective software engineer, music nerd, cryptocurrency fan
+bio: software engineer and music nerd
 
 # if it's an external image, update below for true
 # better with square images
@@ -27,7 +27,7 @@ email: rutigliano.nick@gmail.com
 authors:
     nickrutigliano:
         name: Nick Rutigliano
-        bio: software engineer, music nerd, cryptocurrency fan
+        bio: software engineer and music nerd 
         external-image: false
         picture: assets/images/profile.jpg
 
